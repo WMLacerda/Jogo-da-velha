@@ -1,0 +1,29 @@
+
+        table, td, tr{
+            border: 2px solid red;
+            text-align: center;
+        }
+        td{
+            width: 150px;
+            height: 150px;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: 30px;
+        }
+
+        button {
+            font-size: 30px;
+            position: relative;
+            left: 550px;
+        }
+
+        div {
+            font-size: 30px;
+            text-align: center;
+        }
+
+        table {
+            
+            margin-left: auto;
+            margin-right: auto;
+        }
